@@ -12,7 +12,11 @@ Anteprima dashboard
 
 
 
-https://github.com/user-attachments/assets/e27fc742-5965-4fe0-84e6-0c9423c111ca
+
+
+https://github.com/user-attachments/assets/6746a7be-32c8-47b9-8944-ce5cd1ab7cd5
+
+
 
 
 
