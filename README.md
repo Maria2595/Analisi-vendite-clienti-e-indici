@@ -1,10 +1,10 @@
 # Analisi-vendite-clienti-e-indici
 
-ANALISI VENDITE CLIENTI CON INDICE HERFINDAHL E SHANNON'S ENTROPY (open data azienda ingrosso Kaggle)
+ANALISI VENDITE CLIENTI CON INDICE HERFINDAHL E SHANNON'S ENTROPY (open data azienda ingrosso Deluxe Kaggle)
 
 Descrizione del progetto (Progetto novembre 2026):
 
-L'azienda effettua vendite in 15 paesi europei per prodotti di 10 categorie diverse. 
+L'azienda Deluxe effettua vendite in 15 paesi europei per prodotti di 10 categorie diverse. 
 Ho calcolato con SQL l'indice di Herfindahl per analizzare se nel biennio 2019/2020 vi sono pochi clienti che incrementano le vendite e ho completato l'analisi con l'indice Shannon's Entropy per quantificare se nel trend degli acquisti dei clienti si è registrato un incremento della diversificazione oppure più clienti hanno una percentuale equa sulle vendite totali registrate in un paese.
 
 
