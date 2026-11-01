@@ -10,6 +10,17 @@ Ho calcolato con SQL l'indice di Herfindahl per analizzare se nel biennio 2019/2
 
 Anteprima dashboard
 
+
+
+https://github.com/user-attachments/assets/e27fc742-5965-4fe0-84e6-0c9423c111ca
+
+
+
+
+
+
+
+
 📁 Contenuto repository
 
 ```
