@@ -1,6 +1,6 @@
 # Analisi-vendite-clienti-e-indici
 
-ANALISI VENDITE CLIENTI CON INDICE HERFINDAHL E SHANNON'S ENTROPY (open data azienda ingrosso Deluxe Kaggle)
+ANALISI VENDITE RICHIO CONCENTRAZIONE CLIENTI CON INDICE HERFINDAHL E SHANNON'S ENTROPY (open data azienda ingrosso Deluxe Kaggle)
 
 Descrizione del progetto (Progetto novembre 2026):
 
